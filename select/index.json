@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "brother",
+  "base_artist": "iri",
+  "createdAt": "2026-03-15T14:54:47.297355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brother (feat. Gavin DeGraw)",
+      "artist": "NEEDTOBREATHE feat. Gavin DeGraw",
+      "has_synced": true,
+      "path": "select/01_Brother_(feat._Gavin_DeGraw)_NEEDTOBREATHE_feat._Gavin_DeGraw.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brother (feat. Gavin DeGraw)",
+      "artist": "NEEDTOBREATHE",
+      "has_synced": true,
+      "path": "select/02_Brother_(feat._Gavin_DeGraw)_NEEDTOBREATHE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brother Jukebox",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/03_Brother_Jukebox_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brother Jukebox (Album Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/04_Brother_Jukebox_(Album_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't U Have a Man (feat. Little Brother & Dwele)",
+      "artist": "Drake",
+      "has_synced": false,
+      "path": "select/05_Don't_U_Have_a_Man_(feat._Little_Brother_&_Dwele)_Drake.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mach dich frei (Jungle Brother Remix)",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": false,
+      "path": "select/06_Mach_dich_frei_(Jungle_Brother_Remix)_Die_Fantastischen_Vier.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Big Brother",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/07_Big_Brother_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Big Brother",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Big_Brother_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Big Brother",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Big_Brother_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like Sister and Brother",
+      "artist": "The Drifters",
+      "has_synced": true,
+      "path": "select/10_Like_Sister_and_Brother_The_Drifters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Brother Is My Only Hope",
+      "artist": "Le Sport",
+      "has_synced": true,
+      "path": "select/11_Your_Brother_Is_My_Only_Hope_Le_Sport.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brother",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/12_Brother_Mac_DeMarco.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What's Happening Brother",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/13_What's_Happening_Brother_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brother Love's Travelling Salvation Show",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/14_Brother_Love's_Travelling_Salvation_Show_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brother Loves Travelling Salvation Show",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/15_Brother_Loves_Travelling_Salvation_Show_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "He Ain't Heavy ... He's My Brother",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/16_He_Ain't_Heavy_..._He's_My_Brother_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "He Aint Heavy He's My Brother",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/17_He_Aint_Heavy_He's_My_Brother_Neil_Diamond.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "brother",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_brother_iri.txt"
+    }
+  ]
+}
